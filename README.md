@@ -19,6 +19,6 @@ Three ways to keep yourself in growth mindset:
 2. Place effort before talent.
 3. Make a new goal for every goal accomplished.
 
-And if you want to read more about the subject: [click here](https://www.atlassian.com/blog/inside-atlassian/growth-mindset) :point_left:
+And if you want to read more about the subject: [click here](https://www.atlassian.com/blog/inside-atlassian/growth-mindset) 👈
 
-<div align="center"> Thanks for reading :smiley:
+<div align="center"> Thanks for reading 😃
