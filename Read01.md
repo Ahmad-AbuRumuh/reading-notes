@@ -18,8 +18,8 @@ GitHub.com employs its own version of the Markdown format, which includes a numb
   
   #### Checklist
   
-- [ ] first
-- [x] second
-- [x] third
-- [x] fourth
-- [ ] fifth
+- [ ]  first
+- [x]  second
+- [x]  third
+- [x]  fourth
+- [ ]  fifth
