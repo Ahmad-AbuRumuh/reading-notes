@@ -1,6 +1,6 @@
 # reading-notes
 
-I'm Ahmad AbuRumuh, this is my second year in software engineering at ASAC. I choose this course to improve and develop my skills at programming. [Ahmad AbuRumuh](https://github.com/Ahmad-AbuRumuh) :point_left:
+I'm Ahmad AbuRumuh, this is my second year in software engineering at ASAC. I choose this course to improve and develop my skills at programming. [GitHub account](https://github.com/Ahmad-AbuRumuh) :point_left:
 
 
 ### There are two types of mindset, which are:
