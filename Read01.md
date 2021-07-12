@@ -16,4 +16,10 @@ GitHub.com employs its own version of the Markdown format, which includes a numb
   
   > Hello, this is a qoute
   
+  #### Checklist
   
+- [ ] first
+- [x] second
+- [x] third
+- [x] fourth
+- [ ] fifth
