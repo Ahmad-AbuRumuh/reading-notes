@@ -1,4 +1,8 @@
 # reading-notes
+
+I'm Ahmad AbuRumuh, this is my second year in software engineering at ASAC. I choose this course to improve and develop my skills at programming. [Ahmad AbuRumuh](https://www.atlassian.com/blog/inside-atlassian/growth-mindset) :point_left:
+
+
 ### There are two types of mindset, which are:
 * Growth mindset
 * Fixed mindset
