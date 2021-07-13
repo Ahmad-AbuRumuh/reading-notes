@@ -6,5 +6,5 @@ I'm Ahmad AbuRumuh, this is my second year in software engineering at ASAC. I ch
 
 First Header | Second Header
 ------------ | -------------
-Growth Mindset | [Link](https://ahmad-aburumuh.github.io/reading-notes/)
+Growth Mindset | [Link](https://ahmad-aburumuh.github.io/reading-notes/GrowthMindset)
 Markdown Lang | [Link](https://ahmad-aburumuh.github.io/reading-notes/Read01)
