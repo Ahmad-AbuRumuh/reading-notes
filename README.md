@@ -19,4 +19,4 @@ Read07 | [Link](https://ahmad-aburumuh.github.io/reading-notes/Read07)
 
 **First Header** | **Second Header**
 ------------ | -------------
-class-01 | [Link]()
+class-01 | [Link](https://ahmad-aburumuh.github.io/reading-notes/class-01)
