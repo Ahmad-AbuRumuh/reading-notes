@@ -1,6 +1,6 @@
 # reading-notes
 
-I'm Ahmad AbuRumuh, this is my second year in software engineering at ASAC. I chose this course to improve and develop my skills at programming. [GitHub account](https://github.com/Ahmad-AbuRumuh) 👈
+I'm Ahmad AbuRumuh, this is my second year in software engineering at ASAC. I chose this course to improve and develop my skills at programming. [GitHub account](https://github.com/Ahmad-AbuRumuh)👈
 
 ## Table of content
 
