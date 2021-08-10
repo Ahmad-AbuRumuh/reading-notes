@@ -2,9 +2,9 @@
 
 ## Layouts
 
-Each HTML element is treated as if it were in its own box by CSS. This box will either be a block-level box or an inline box. Block-level boxes begin on a new line and serve as the foundation of any layout, whereas inline boxes flow between adjacent text. By adjusting the width of the boxes, you can decide how much space each one takes up (and sometimes the height, too). Borders, margins, padding, and background colors can all be used to separate boxes.
+A div> (or other block-level) element is commonly used to group a lot of items together. For example, you could put together all of the parts that make up a website's header (such as the logo and the main navigation). The containing element is defined as the div> element that contains this collection of elements.
 
-* The outer box is known as the contained or parent element when one block-level element lies inside another block-level element.
+Normal flow, relative positioning, and absolute positioning are the three CSS positioning strategies that allow you to control the layout of a page. The position property in CSS is used to indicate the positioning system. The float property can also be used to float items.
 
 Example:
 

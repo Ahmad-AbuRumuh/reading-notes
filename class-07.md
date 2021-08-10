@@ -32,12 +32,10 @@ Each cell of a table is represented using a td>element. (The td stands for table
 
 ---
 
-## objects
+## What is an object
 
-An object in JavaScript is a separate entity having properties and a type. Consider the example of a cup. A cup is a property-rich object. A cup has a color, a pattern, a weight, and a material made of it, among other things. JavaScript objects, likewise, can have properties that determine their qualities.
+Objects bring together a collection of variables and functions to construct a model of what you'd see in real life. Variables and functions in an object are given new names.
 
-Occasionally, you'll want numerous objects to represent the same thing. Object constructors can utilize a function to create objects as a template.
+IN AN OBJECT: VARIABLES BECOME KNOWN AS PROPERTIES and FUNCTIONS BECOME KNOWN AS METHODS.
 
-``` JavaScript
-var hotel = { name : 'Park', rooms : 120, booked : 77. } ; 
-```
+![example](https://miro.medium.com/max/1400/1*gslNlU_BKtZuSyjLMbmp7Q.png)
