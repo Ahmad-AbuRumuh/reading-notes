@@ -30,5 +30,4 @@ class-08 | [Link](https://ahmad-aburumuh.github.io/reading-notes/class-08)
 class-09 | [Link](https://ahmad-aburumuh.github.io/reading-notes/class-09)
 class-10 | [Link](https://ahmad-aburumuh.github.io/reading-notes/class-10)
 class-11 | [Link](https://ahmad-aburumuh.github.io/reading-notes/class-11)
-
 class-12 | [Link](https://ahmad-aburumuh.github.io/reading-notes/class-12)
