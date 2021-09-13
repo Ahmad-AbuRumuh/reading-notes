@@ -46,3 +46,5 @@ class-14b | [Link](https://ahmad-aburumuh.github.io/reading-notes/class-14b)
 **First Header** | **Second Header**
 ------------ | -------------
 class01 | [Link](https://ahmad-aburumuh.github.io/reading-notes/class01)
+class02 | [Link](https://ahmad-aburumuh.github.io/reading-notes/class02)
+class03 | [Link](https://ahmad-aburumuh.github.io/reading-notes/class03)
